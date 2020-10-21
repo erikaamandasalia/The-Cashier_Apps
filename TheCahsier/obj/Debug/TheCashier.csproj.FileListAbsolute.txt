@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\bin\Debug\TheCahsier.exe.config
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\bin\Debug\TheCahsier.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\bin\Debug\TheCahsier.pdb
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\TheCashier.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\TheCahsier_MarkupCompile.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\TheCahsier_MarkupCompile.lref
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\TheCahsier.g.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\TheCahsier.Properties.Resources.resources
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\TheCashier.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\TheCashier.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\TheCahsier.exe
+C:\Users\Asus\Documents\Amikom\SEMESTER 3\Pemograman Lanjut\Joki\TheCahsier\TheCahsier\obj\Debug\TheCahsier.pdb
