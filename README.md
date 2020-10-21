@@ -3,7 +3,7 @@ Aplikasi kasir untuk mendata barang atau jasa yang dibeli oleh pembeli.
 
 Disini menjadi pusat proses dimana jendela akan menghubungi class calculator untuk mengambil listbox melalui perintah getListItem()
 
-public MainWindow()
+        public MainWindow()
         {
             InitializeComponent();
             calculator = new Calculator();
@@ -29,3 +29,9 @@ Lalu setelah kasir menginputkan data setelah menekan tombol button, maka akan di
         }
 
 Untuk Single Responsibility berada pada codingan berikut. Yaitu proses dimana class tersebut akan menambahkan item yang dimasukkan oleh kasir dan ditampilkan dalam list serta menghitung total harga dari pembelian.
+        
+        public void AddItem(Item item)
+        {
+            this.listItem.Add(item);
+            this.total += item.getSubtotal();
+        }
